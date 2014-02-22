@@ -33,5 +33,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "compass"
   spec.add_development_dependency "bourbon"
   spec.add_development_dependency "neat"
-  spec.add_development_dependency "bootstrap-sass"
+  spec.add_development_dependency "font-awesome-sass"
 end
